@@ -1,0 +1,1 @@
+informações relevantes sobre autismo que o modelo BERT utilizará para gerar respostas. Por exemplo:
